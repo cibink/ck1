@@ -1,2 +1,2 @@
 # ck1
-Steps to download dotproject
+Steps to download and install dotproject
